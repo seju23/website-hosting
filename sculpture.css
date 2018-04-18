@@ -1,0 +1,96 @@
+*{
+    -webkit-box-sizing:border-box;
+    -moz-box-sizing:border-box;
+    -ms-box-sizing:border-box;
+    box-sizing:border-box;
+}
+
+
+body > div.header{
+     width: 100%;
+    height: 70px;
+    top: 0;
+    background-color:#828080;
+    
+    padding-bottom: 0px;
+   padding-left: 0px; 
+    padding-right: 0%;
+    padding-top: 0px;
+    
+    position: fixed;
+  
+}
+body > div.header > div > div.logo{
+    float: left;
+    font-style: "Curlz MT";
+    font-size: 35px;
+    height: 150px;
+
+}
+ 
+ a{
+    text-decoration: none;
+    color: rgb(255,255,255);
+ }
+ li{
+    list-style: none;
+    float: left;
+    margin: 20px;
+    font-size: 26px;
+ }
+ 
+   body > div.header > div > div.nav{
+    float: right;
+    margin-right: 120px;
+
+ }
+ img{
+    
+    width: 250px;
+    height: 250px;
+    
+ }
+ body > div:nth-child(6) > div > table > tbody > tr:nth-child(1) > th:nth-child(1) > a > img{
+    border-color: rgb(1,1,1);
+}
+ body > div > div > table > tbody > tr > th > div > h5{
+    margin-top: 0px;
+    margin-bottom: 0px;
+     color: rgb(21,1,1);
+     font-style: Curlz MT;
+     font-size: 16px;
+}
+body > div.header > div.container{
+    width: 1349px
+  }
+body > div > header{
+     width: 300px;
+    padding-left: 350px;
+  
+}
+body > div{
+    padding-left: 160px;
+}
+body > div.header > div.container > div.logo > img{
+    
+    width: 90px;
+    height: 110px;
+    margin-left: 30px;
+}
+body > div > header > h2{
+    margin-top: 150px;
+    width: 300px;
+}
+body > div > div{
+    
+    width: 1030px;
+}
+body > div > div > form{
+    margin-left: 420px;
+    height: 31px;
+    width: 166px;
+    margin-bottom: 5px;
+}
+body > div > div > form >input{
+    font-size: 18px;
+}

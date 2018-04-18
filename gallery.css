@@ -1,0 +1,154 @@
+*{
+    -webkit-box-sizing:border-box;
+    -moz-box-sizing:border-box;
+    -ms-box-sizing:border-box;
+    box-sizing:border-box;
+}
+
+
+body > div.header{
+     width: 100%;
+    height: 70px;
+    top: 0;
+    background-color:#828080;
+    
+    padding-bottom: 0px;
+   padding-left: 0px; 
+    padding-right: 0%;
+    padding-top: 0px;
+    
+    position: fixed;
+}
+
+ a{
+    text-decoration: none;
+    color: rgb(255,255,255);
+ }
+ li{
+    list-style: none;
+    float: left;
+    margin: 20px;
+    font-size: 26px;
+ }
+  body > div.header > div.container{
+    width: 1349px
+  }
+ 
+   body > div.header > div > div.nav{
+     float: right;
+    margin-right: 120px;
+
+ }
+
+ body > div > header{
+    
+    width: 300px;
+    padding-left: 400px;
+    padding-top: 10px;
+ }
+
+
+
+ body > div{
+    padding-left: 120px;
+ }
+th{
+
+    padding-left: 8;
+     padding-top: 8;
+     padding-right: 8;
+     padding-bottom: 8;
+     border:3px;
+ }
+ body > div > div > table > tbody > tr > th > div > h5{
+    margin-top: 0px;
+    margin-bottom: 0px;
+     color: rgb(1,1,1);
+     font-style: Curlz MT;
+     font-size: 16px;
+}
+body > div:nth-child(11) > header{
+     width: 300px;
+    padding-left: 400px;
+}
+body > div:nth-child(11){
+    padding-left: 120px;
+}
+body > div.header > div.container > div.logo{
+    float: left;
+    font-style: "Curlz MT";
+    font-size: 35px;
+    height: 90px;
+   width:70px;
+
+}
+
+body > div.header > div.container > div.logo > img{
+    
+    width: 90px;
+    height: 110px;
+    margin-left: 50px;
+}
+
+body > div:nth-child(15) > header{
+    width: 300px;
+    padding-left: 400px;
+}
+body > div:nth-child(15){
+    padding-left: 120px;
+}
+body > div:nth-child(19) > header{
+    width: 300px;
+    padding-left: 400px;
+}
+body > div:nth-child(19){
+    padding-left: 120px;
+}
+body > div > div{
+    
+    width: 1075px;
+}
+body > div > div > form{
+    margin-left: 480px;
+    height: 40px;
+    width: 200px;
+    margin-bottom: 5px;
+}
+body > div > div > form > a{
+color: rgb(1,1,1);
+}
+body > div:nth-child(7) > header > h2{
+   padding-left: 50px;
+    width: 430px;
+    height: 30px;
+    font-size: 28px;
+}
+body > div > header > h3{
+    font-size: 24px;
+}
+body > div > div > table > tbody > tr > td > form > input{
+    color: rgb(1,1,1);
+    font-style: "chiller";
+    font-size: 24px;
+}
+body > div > div > table > tbody > tr > td{
+    padding-top: 20px;
+    padding-right: 40px;
+    padding-left: 40px;
+}
+body > div> div > table > tbody > tr > td > form{
+    width: 200px;
+    height: 40px;
+    border: 5px;
+    padding-left: 20px;
+}
+body > div > div > table > tbody > tr > td{
+    background-color: #6F6C6C;
+}
+body > div > div > table > tbody > tr > td> div > font > h3{
+    font-size: 20px;
+}
+body>div>div>h5{
+    padding-left: 400px;
+    padding-top: 100px;
+}

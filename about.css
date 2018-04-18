@@ -1,0 +1,63 @@
+*{
+    -webkit-box-sizing:border-box;
+    -moz-box-sizing:border-box;
+    -ms-box-sizing:border-box;
+    box-sizing:border-box;
+}
+
+
+body > div.header{
+    width: 100%;
+    height: 70px;
+    top: 0;
+    background-color:#272626;
+    
+    padding-bottom: 0px;
+   padding-left: 0px; 
+    padding-right: 0%;
+    padding-top: 0px;
+    
+    position: fixed;
+  
+}
+body > div.header > div > div.logo{
+    float: left;
+    font-style: "Curlz MT";
+    font-size: 35px;
+    height: 150px;
+
+}
+ 
+ a{
+    text-decoration: none;
+    color: rgb(255,255,255);
+ }
+ li{
+    list-style: none;
+    float: left;
+    margin: 20px;
+    font-size: 26px;
+ }
+ body > div.header > div > div.nav{
+     float: right;
+    margin-right: 120px;
+
+
+ }
+body>div>h3{
+    margin-left: 300px;
+    margin-bottom: 100px;
+}
+body > div.header > div.container > div.logo > img{
+    
+    width: 90px;
+    height: 110px;
+    margin-left: 30px;
+}
+body>div.para{
+
+    
+        margin-left: 400px;
+    margin-bottom: 200px;
+    margin-top: 100px;
+}
